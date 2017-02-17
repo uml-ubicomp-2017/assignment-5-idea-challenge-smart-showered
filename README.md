@@ -1,7 +1,7 @@
 # assignment-5-idea-challenge-smart-showered
 assignment-5-idea-challenge-smart-showered created by GitHub Classroom   
     
-MindMap:http://www.xmind.net/m/X2uj         
+MindMap-Water waste in the shower:http://www.xmind.net/m/X2uj         
     
 Team members:   
 Linghong Tang, Student ID:01607330, Email:Linghong_Tang@student.uml.edu    
